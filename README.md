@@ -35,17 +35,6 @@ This project demonstrates how to build a **serverless ETL data pipeline** using 
 
 ---
 
-## 🧪 What You’ll Learn
-
-- How to build a real-world ETL pipeline using serverless architecture
-- How to connect to and extract data from REST APIs (Spotify)
-- How to use AWS Lambda for lightweight extract jobs
-- How to transform and clean data using AWS Glue
-- How to use Glue Crawler and Athena for data analysis
-
----
-
-
 ## 📁 S3 Bucket Structure
 
 ```
